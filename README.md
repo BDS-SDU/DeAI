@@ -1,3 +1,6 @@
+
+## A Blockchain-Secured and Privacy-Preserving Decentralized Learning System
+
 ### Prerequisites
 
 - **Python 3.8** (Error with Python 3.9)
@@ -78,3 +81,15 @@ cd mnist_data
 python3 mnist_parser
 ```
 
+```bibtex
+@article{xu2022spdl,
+  title={SPDL: A blockchain-enabled secure and privacy-preserving decentralized learning system},
+  author={Xu, Minghui and Zou, Zongrui and Cheng, Ye and Hu, Qin and Yu, Dongxiao and Cheng, Xiuzhen},
+  journal={IEEE Transactions on Computers},
+  volume={72},
+  number={2},
+  pages={548--558},
+  year={2022},
+  publisher={IEEE}
+}
+```
